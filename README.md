@@ -2,37 +2,23 @@
 Tableau visualizations using data from New York's Citi Bike Program.
 
 
+To view this project visit:
 https://public.tableau.com/app/profile/lindsey.morales
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Featured Notebooks and Files](#featured-notebooks-and-files)
 * [Screenshots](#screenshots)
 * [Data Source](#data-source)
 * [Conclusions](#conclusions)
 
 
 ## General Information
-This project examines Citi Bike ....
+This project examines NYC Citi Bike data from January 2021 and January 2022. Visualizations analyze the impact of gender on membership, age of rider and relationship to ride duration, and most popular stations to begin and end a trip.
 
 ## Technologies Used
 - pandas
 - Tableau
- 
- ## Featured Notebooks and Files
-
-<!-- 
-The structure of the project includes the following folders/files: 
-
-* templates - including all the main html files: index, dashboard, home, contact, index-scraped, map, barchart and linegraph html files
-* static - including CSS folder and JS folder 
-* blog - including all the supportmental html files
-* Resources - including covid-19 deaths by sex and age and population csv files
-* images - including all the screenshots and pictures used for project 
-* app.py - main Flask app
-* covid_data.py -  scraped app -->
-
  
 ## Screenshots
 
@@ -57,7 +43,13 @@ Age and Average Trip Duration
 
 
 ## Data Source
+https://ride.citibikenyc.com/system-data
 
+https://data.ny.gov/Government-Finance/New-York-State-ZIP-Codes-County-FIPS-Cross-Referen/juva-r6g2/data
+
+https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u
 
 
 ## Conclusions and Considerations for Further Analysis
+
+Based on the data, most users are part of the member program though membership declined slightly when comparing Jan 2021 to Jan 2022 stats. Riders between the ages of 17-25 are using CitiBike the most and riding the longest. Peak time to ride is between 5-6pm, suggesting most users take CitiBike for a ride after work. The most popular stations in January 2021 are in the medical district, likely influenced by COVID and Trader's Joe's. In January 2022, the most popular stations remained largely the same with the addition of a station near a shopping district, which may signal American's behavior return to pre-COVID times. 
