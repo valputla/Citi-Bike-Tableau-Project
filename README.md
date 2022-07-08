@@ -1,3 +1,4 @@
+![citibike analysis](https://user-images.githubusercontent.com/93561950/177904444-b3646791-2153-45f3-8fc0-b548c502a8e5.png)
 # Citi-Bike-Tableau-Project
 Tableau visualizations using data from New York's Citi Bike Program.
 
@@ -10,7 +11,6 @@ https://public.tableau.com/app/profile/lindsey.morales
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Data Source](#data-source)
-* [Conclusions](#conclusions)
 
 
 ## General Information
